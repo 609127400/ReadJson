@@ -1,0 +1,28 @@
+     {
+	"first":"firstshishi",
+	"couple":{
+		"xixi":"xixixixi",
+		"person1":
+			{
+				"id":1.264,"name":"Mr.Wang"
+			},
+		"person2":{"id":-254.25,     "name"   :"Mrs.Song"},
+		"info":["str
+ing",
+1,true,{"id":"dongdong
+dong","hal":+15.24e-2},NULL,{"idid":"qiangqiangqian","hahaha":16}],
+		"writing":
+			"abcdefg,好好学习天天向上，
+			 1.ioctl命令的宏定义
+			 2.module的printk打印不到终端上，KERN_EMER级别也不行
+			 3.字符设备的poll方法
+			 4.字符设备的异步通知的实现细节
+			 5.存取控制
+			 6.tasklet在cpu忙时在下一个滴答之前运行，下一个滴答怎么理解，按1000/sec，下一个滴答不是很快就会到，那这样做的意义在哪里？
+			 7.CPU亲和机制/每-CPU数据结构
+			 8.内存池
+			 9.每种内存分配方式的优缺点和适用环境
+			 10.或自端口"
+	},
+	"hello":5
+}
